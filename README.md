@@ -22,7 +22,7 @@
 |![메인 페이지](./docs/Main_Page.png)|![연습 페이지](./docs/Practice_Page.png)|
 
 ### 서비스 흐름
-```Mermaid
+```mermaid
 flowchart LR
     %% 스타일 정의
     classDef process fill:#eff6ff,stroke:#3b82f6,stroke-width:2px,color:#1e40af,font-weight:bold

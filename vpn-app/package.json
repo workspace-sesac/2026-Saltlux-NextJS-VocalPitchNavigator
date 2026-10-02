@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "server": "json-server --watch vpn-db.json --port 4000",
     "lint": "eslint"
   },
   "dependencies": {

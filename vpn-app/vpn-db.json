@@ -1,0 +1,10 @@
+{
+    "practiceSession": [
+        {
+            "id": 1,
+            "duration": 60,
+            "review": "첫 번째 연습 후기",
+            "createdAt": "2026-10-01T10:00:00Z"
+        }
+    ]
+}
